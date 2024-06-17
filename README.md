@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Unkzittys
+- 👀 I’m interested in porting games for Android
+- 🌱 I’m currently learning Python and Ren'Py
+- 💞️ I’m looking to collaborate on porting basic, open-source Visual Novels
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Even if I leave someday, I can never really overcome my desire to program, so I always come back
